@@ -45,7 +45,7 @@ It helps stakeholders monitor financial performance, identify rejection reasons,
 ## 📷 Screenshots
 
 ### 1. Executive Dashboard
-![Executive Dashboard](Executive%20Dashboard.png)
+![Executive Dashboard](Executive_Dashboard..png)
 
 ### 2. Rejection Analysis
 ![Rejection Analysis](Rejection_Analysis.png)
@@ -61,6 +61,7 @@ It helps stakeholders monitor financial performance, identify rejection reasons,
 
 ### 6. Advanced Search
 ![Advanced Search](Advanced_Search.png)
+
 
 ---
 
