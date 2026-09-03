@@ -38,19 +38,30 @@ It helps stakeholders monitor financial performance, identify rejection reasons,
 - Total Rejection Rate: **6.08%**
 - Top Rejection Reasons: **"Patient Not Registered"** and **"Drug Quantity Exceeded"**
 - Discounts are only applied to **Medication** services.
-- Best performing provider: *(أضف اسم حسب بياناتك)*
+- Best performing provider: *(mawada-hosptal)*
 
 ---
 
 ## 📷 Screenshots
+### 1. Executive Dashboard
+![Executive Dashboard](Screenshots/1_Executive_Dashboard.png)
 
-*(سيتم إضافة الصور بعد رفع المشروع على GitHub)*
+### 2. Rejection Analysis
+![Rejection Analysis](Screenshots/2_Rejection_Analysis.png)
+
+### 3. Deductions & Discounts
+![Deductions & Discounts](Screenshots/3_Deductions_Discounts.png)
+
+### 4. Provider Performance
+![Provider Performance](Screenshots/4_Provider_Performance.png)
+
+### 5. Time Intelligence
+![Time Intelligence](Screenshots/5_Time_Intelligence.png)
+
+### 6. Advanced Search
+![Advanced Search](Screenshots/6_Advanced_Search.png)
 
 ---
-
-## 🔗 Live Demo
-
-*(رابط التقرير على Power BI Service – اختياري)*
 
 ---
 
