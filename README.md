@@ -44,8 +44,8 @@ It helps stakeholders monitor financial performance, identify rejection reasons,
 
 ## 📷 Screenshots
 
-
-![Executive Dashboard](screenshots/Executive%20Dashboard.png)
+### 1. Executive Dashboard
+![Executive Dashboard](screenshots/Executive_Dashboard.png)
 
 ### 2. Rejection Analysis
 ![Rejection Analysis](screenshots/Rejection_Analysis.png)
