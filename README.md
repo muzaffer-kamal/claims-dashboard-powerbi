@@ -43,23 +43,24 @@ It helps stakeholders monitor financial performance, identify rejection reasons,
 ---
 
 ## 📷 Screenshots
+
 ### 1. Executive Dashboard
-![Executive Dashboard](Screenshots/1_Executive_Dashboard.png)
+![Executive Dashboard](Executive%20Dashboard.png)
 
 ### 2. Rejection Analysis
-![Rejection Analysis](Screenshots/2_Rejection_Analysis.png)
+![Rejection Analysis](Rejection_Analysis.png)
 
 ### 3. Deductions & Discounts
-![Deductions & Discounts](Screenshots/3_Deductions_Discounts.png)
+![Deductions & Discounts](Deductions_Discounts.png)
 
 ### 4. Provider Performance
-![Provider Performance](Screenshots/4_Provider_Performance.png)
+![Provider Performance](Provider_Performance.png)
 
 ### 5. Time Intelligence
-![Time Intelligence](Screenshots/5_Time_Intelligence.png)
+![Time Intelligence](Time_Intelligence.png)
 
 ### 6. Advanced Search
-![Advanced Search](Screenshots/6_Advanced_Search.png)
+![Advanced Search](Advanced_Search.png)
 
 ---
 
